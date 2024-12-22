@@ -32,7 +32,7 @@
   * Умение работать в команде
   * Интересуюсь инвестированием/алготрейдингом, торговыми роботами
 ---
-### 🙌🏻 Свяжись со мной
-- [Telegram](https://t.me/al_ogr)
-- <a href="mailto:al_ogr@mail.ru">e-mail: al_ogr@mail.ru</a>
+###  Связаться со мной
+- [<img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" height="20px"> Telegram](https://t.me/al_ogr)
+- <a href="mailto:al_ogr@mail.ru">📧 e-mail: al_ogr@mail.ru</a>
 ---
